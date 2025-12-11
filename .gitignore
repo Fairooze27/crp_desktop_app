@@ -1,0 +1,36 @@
+# Python venv
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Inno Setup output
+Output/
+*.exe
+
+# SQLite database (optional — keep it local)
+*.db
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PySide6 cache
+*.qmlc
+*.jsc
+
+# Temporary test files
+tests/output/
+*.tmp
